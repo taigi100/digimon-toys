@@ -1,5 +1,4 @@
 # digimon-toys
----
 
 Website: www.digimon-toys.com
 
