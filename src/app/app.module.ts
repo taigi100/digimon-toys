@@ -4,11 +4,13 @@ import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
+import { FooterComponent } from "./footer/footer.component";
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule.withServerTransition({appId: 'my-app'}),
