@@ -7,3 +7,12 @@
     background-color: #f5f5f5;
     text-align: center;
 }
+
+.social {
+    color: black;
+    padding-right: 1rem;
+}
+
+.contact {
+    color: gray;
+}
