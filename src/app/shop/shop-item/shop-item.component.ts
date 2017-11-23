@@ -4,13 +4,17 @@ import { Component, OnInit, Input } from '@angular/core';
 @Component({
   selector: 'app-shop-item',
   template: `
-    <div *ngIf="item">
-      <img src="item?.image">
-      <span> price {{item?.price}} </span>
-      <a href="item?.linkToBuy"><button>Buy now!</button></a>
-    </div>
+    <div class="item" *ngIf="item">
+      <div class="card" style="width: 20rem;">
+      <img class="card-img-top" [src]="item.image" alt="Item image not found">
+      <div class="card-block">
+        <h4 class="card-title">{{item.name}}</h4>
+        <p class="card-text">{{item.price}}
+          <a [href]="item.linkToBuy" class="btn btn-primary buy-button">Buy now!</a> 
+        </p>
+      </div>
   `,
-  styles: []
+  styleUrls: ['shop-item.component.css']
 })
 export class ShopItemComponent implements OnInit {
   @Input() item: ShopItem;
