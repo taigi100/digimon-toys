@@ -1,0 +1,13 @@
+[
+    {
+        "name": "WarGraymon",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71UHg6rueOL._SL1500_.jpg",
+        "price":"100$",
+        "linkToBuy": "meh"
+    },
+    {
+        "image": "test@",
+        "price": "200$",
+        "linkToBuy": "dayum"
+    }
+]
