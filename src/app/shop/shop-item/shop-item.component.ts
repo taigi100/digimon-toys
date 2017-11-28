@@ -1,5 +1,5 @@
 import { ShopItem } from './../../domain/shop-item.model';
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, ViewEncapsulation } from '@angular/core';
 
 @Component({
    selector: 'app-shop-item',
@@ -9,8 +9,11 @@ import { Component, OnInit, Input } from '@angular/core';
       <img class="card-img-top" [src]="item.image" alt="Item image not found">
       <div class="card-block">
         <h4 class="card-title">{{item.name}}</h4>
-          <a [href]="item.linkToBuy" class="btn btn-primary buy-button">Buy now!</a>
+          <a [href]="item.linkToBuy">
+            <button type="button" class="btn btn-outline-dark">Buy now!</button>
+          </a>
       </div>
+
   `,
    styleUrls: ['shop-item.component.css']
 })
