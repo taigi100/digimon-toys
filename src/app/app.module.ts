@@ -28,12 +28,14 @@ import { HttpClientModule } from '@angular/common/http';
     HttpClientModule,
     BrowserModule.withServerTransition({appId: 'my-app'}),
     RouterModule.forRoot([ { path: '',
-    redirectTo: '/shop',
+    redirectTo: '/featured',
     pathMatch: 'full'
     },
-      { path: 'shop', component: ShopComponent, data: {url: "assets/test.location.json"}},
-      { path: 'lazy', loadChildren: './lazy/lazy.module#LazyModule'},
-      { path: 'lazy/nested', loadChildren: './lazy/lazy.module#LazyModule'}
+      { path: 'featured', component: ShopComponent, data: {url: "assets/action_figures.json"}},
+      { path: 'action-figures', component: ShopComponent, data: {url: "assets/action_figures.json"}},
+      { path: 'plush-toys', component: ShopComponent, data: {url: "assets/action_figures.json"}},
+      { path: 'accessories', component: ShopComponent, data: {url: "assets/action_figures.json"}},
+      { path: 'dvds', component: ShopComponent, data: {url: "assets/action_figures.json"}}
     ])
   ],
   providers: [
