@@ -29,11 +29,11 @@ import { HttpClientModule } from '@angular/common/http';
     redirectTo: '/featured',
     pathMatch: 'full'
     },
-      { path: 'featured', component: ShopComponent, data: {url: "assets/action_figures.json"}},
+      { path: 'featured', component: ShopComponent, data: {url: "assets/featured.json"}},
       { path: 'action-figures', component: ShopComponent, data: {url: "assets/action_figures.json"}},
-      { path: 'plush-toys', component: ShopComponent, data: {url: "assets/action_figures.json"}},
-      { path: 'accessories', component: ShopComponent, data: {url: "assets/action_figures.json"}},
-      { path: 'dvds', component: ShopComponent, data: {url: "assets/action_figures.json"}}
+      { path: 'plush-toys', component: ShopComponent, data: {url: "assets/plush.json"}},
+      { path: 'accessories', component: ShopComponent, data: {url: "assets/accessories.json"}},
+      { path: 'dvds', component: ShopComponent, data: {url: "assets/dvd.json"}}
     ])
   ],
   providers: [

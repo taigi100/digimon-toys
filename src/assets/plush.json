@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Patamon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41Z4W0plwEL._AC_US200_.jpg",
+    "price": "$25.99",
+    "linkToBuy": "http://amzn.to/2CZ6L0N"
+  },
+  {
+    "name": "Terriermon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/318LCNJFRDL._AC_US200_.jpg",
+    "price": "$35.90",
+    "linkToBuy": "http://amzn.to/2qHoLYg"
+  },
+  {
+    "name": "Banpresto/Tailmon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31xaOaDADZL._AC_US200_.jpg",
+    "price": "$34.69",
+    "linkToBuy": "http://amzn.to/2CIVoGB"
+  },
+  {
+    "name": "Garurumon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51uN7i0mt3L._AC_US200_.jpg",
+    "price": "$26.99",
+    "linkToBuy": "http://amzn.to/2meHp4D"
+  },
+  {
+    "name": "Shoutmon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41C9kdlmtnL._AC_US200_.jpg",
+    "price": "$26.99",
+    "linkToBuy": "http://amzn.to/2qKxGIL"
+  },
+  {
+    "name": "Chibimon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41Qgu1uQp4L._AC_US200_.jpg",
+    "price": "$33.24",
+    "linkToBuy": "http://amzn.to/2DbHoWW"
+  }
+]
