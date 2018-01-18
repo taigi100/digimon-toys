@@ -34,5 +34,35 @@
     "image": "https://images-na.ssl-images-amazon.com/images/I/41Qgu1uQp4L._AC_US200_.jpg",
     "price": "$33.24",
     "linkToBuy": "http://amzn.to/2DbHoWW"
+  },
+  {
+    "name": "Agumon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51AQtEJDPnL._AC_US160_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Digital-Monster-Toddler-kidsheaven/dp/B01BYU53WO"
+  },
+  {
+    "name": "Gomamon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41BX4vP-exL._AC_US160_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Gomamon-Stuffed-Animals-Collection/dp/B01HH484CM"
+  },
+  {
+    "name": "Palmon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41MoSyoDNmL._AC_US160_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Digital-Monster-Toddler-Stuffed/dp/B01IJN8LUU"
+  },
+  {
+    "name": "Gabumon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51dDMI1ERLL._AC_US160_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Gabumon-Stuffed-Animals-Collection/dp/B01E606SU0"
+  },
+  {
+    "name": "Greymon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41rzR-YFAjL._AC_US160_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Digital-Monster-Adventure-Greymon/dp/B01IJNOQMM"
+  },
+  {
+    "name": "Biyomon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51I0D4hVUML._AC_US160_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Digital-Monster-Piyomon-Biyomon/dp/B01D57HXD6"
   }
 ]

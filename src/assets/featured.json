@@ -10,24 +10,14 @@
     "linkToBuy": "https://www.amazon.com/gp/product/B00UHH9ATI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=sebastianopre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00UHH9ATI&linkId=bd1c966b749f86a1378e644b01b1c2e3"
   },
   {
-    "name": "Wargreymon",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/41VtiNV4uyL._AC_US200_.jpg",
-    "linkToBuy": "https://www.amazon.com/gp/product/B071FJSYF8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=sebastianopre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071FJSYF8&linkId=dff15dbc271112750aba646770913fa8"
-  },
-  {
-    "name": "Figuarts Metal Garurumon",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/813Wo7j7RsL._SL1500_.jpg",
-    "linkToBuy": "https://www.amazon.com/gp/product/B00SOKGQHY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=sebastianopre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SOKGQHY&linkId=a6f2c903b644f492baec2fb41db4f558"
+    "name": "Digimon Adventure Tri WarGreymon 925 Sterling Silver Ring",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41KlcpBiLkL._AC_UL260_SR200,260_.jpg",
+    "linkToBuy": "https://www.amazon.com/Shopular-Digimon-Adventure-WarGreymon-Sterling/dp/B0775NXCN3"
   },
   {
     "name": "Imperialdramon",
     "image": "https://images-na.ssl-images-amazon.com/images/I/81snkxRxkHL._SL1500_.jpg",
     "linkToBuy": "https://www.amazon.com/gp/product/B00IQ8N06E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=sebastianopre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IQ8N06E&linkId=bc0a9d78052de13fa7d89730366bf925"
-  },
-  {
-    "name": "Xross",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/41QElIrrlnL.jpg",
-    "linkToBuy": "https://www.amazon.com/gp/product/B003TCXANK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=sebastianopre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B003TCXANK&linkId=500078395223e4c3168246bb35e0dfe4"
   },
   {
     "name": "Metal Garurumon",
@@ -40,13 +30,40 @@
     "linkToBuy": "http://amzn.to/2iWincL"
   },
   {
+    "name": "Digimon Adventure Tri MetalGarurumon 925 Sterling Silver Ring",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41K8E8+p7lL._AC_UL260_SR200,260_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Adventure-MetalGarurumon-Sterling-Silver/dp/B0775RFJMP"
+  },
+  {
     "name": "Skull Knightmon & Deadly Axmon Set",
     "image": "https://images-na.ssl-images-amazon.com/images/I/61OfV3XE57L._SL1000_.jpg",
     "linkToBuy": "http://amzn.to/2ArS98m"
   },
   {
+    "name": "Greymon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41rzR-YFAjL._AC_US160_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Digital-Monster-Adventure-Greymon/dp/B01IJNOQMM"
+  },
+  {
+    "name": "Palmon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41MoSyoDNmL._AC_US160_.jpg",
+    "linkToBuy": "https://www.amazon.com/Digimon-Digital-Monster-Toddler-Stuffed/dp/B01IJN8LUU"
+  },
+  {
     "name": "Cyberdramon",
     "image": "https://images-na.ssl-images-amazon.com/images/I/61WKepc7G2L._SL1000_.jpg",
     "linkToBuy": "http://amzn.to/2iXfkkr"
+  },
+  {
+    "name": "Digimon: Digital Monsters - The Official First Season",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61ADHnmlnZL._AC_US200_.jpg",
+    "price": "$45.97",
+    "linkToBuy": "http://amzn.to/2CMcYcX"
+  },
+  {
+    "name": "Digimon: The Official Seasons 1-4 Collection",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61l4uqX9FtL._AC_US200_.jpg",
+    "price": "$94.93",
+    "linkToBuy": "http://amzn.to/2CJJe0n"
   }
 ]
